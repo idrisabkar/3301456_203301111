@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669237237204",
+    "project_id": "ruso-chat",
+    "storage_bucket": "ruso-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669237237204:android:56f7b007c50ee4574e3241",
+        "android_client_info": {
+          "package_name": "com.idris_ruso.ruso_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669237237204-up30e686ltl8uu8f9fvf7rddiv9ogp1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmxcSUZ7g6mGAxvkHoct9fJXZdQ1c6P8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669237237204-up30e686ltl8uu8f9fvf7rddiv9ogp1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
